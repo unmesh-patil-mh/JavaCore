@@ -105,7 +105,6 @@ Java programs are compiled into **bytecode**, which runs on the **Java Virtual M
 
 ## 🧪 Example Topics in Repository
 
-```text
 📁 Core-Java
  ├── Basics
  ├── OOP
@@ -126,7 +125,7 @@ Java programs are compiled into **bytecode**, which runs on the **Java Virtual M
 If any suggestion our Guidence please Connect with me
 📬 Connect With Me
 GitHub: https://github.com/
-LinkedIn: https://leetcode.com/problemset/
+LinkedIn: https://leetcode.com
 Email: punmesh56@gmail.com
 
 ⭐ Contribution & Support
