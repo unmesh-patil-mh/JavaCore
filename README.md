@@ -126,7 +126,7 @@ Java programs are compiled into **bytecode**, which runs on the **Java Virtual M
 If any suggestion our Guidence please Connect with me
 📬 Connect With:- <br>
 GitHub: https://github.com/unmesh-patil-mh <br>
-LinkedIn: https://leetcode.com
+LinkedIn: https://leetcode.com/unmesh3010
 Email: punmesh56@gmail.com
 
 ⭐ Contribution & Support
